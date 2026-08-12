@@ -108,29 +108,55 @@ A full-stack rental listing platform built with **Node.js, Express.js, MongoDB a
 
 🔗 [View Project](https://github.com/Rohan-Ghotekar/Wander-Lust)
 
----
-
 ## 🧠 Problem Solving & Competitive Programming
 
 I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving, algorithmic thinking, and coding skills.
 
 <p align="center">
   <a href="https://leetcode.com/u/rohan_1444/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-rohan__1444-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/rohanghotvfnw?tab=activity">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-rohanghotvfnw-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🟠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/rohan_1444/">
+    <img src="https://leetcard.jacoblin.cool/rohan_1444?theme=dark&font=Baloo&ext=heatmap" width="70%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/rohan_1444/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="48%" />
+    <img src="https://img.shields.io/badge/796%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  &nbsp;
+  <img src="https://img.shields.io/badge/29%20Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/500%20Days%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+---
+
+### 🟢 GeeksforGeeks
+
+<p align="center">
   <a href="https://www.geeksforgeeks.org/profile/rohanghotvfnw?tab=activity">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>🚀 Solving problems and continuously improving my DSA skills</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/rohanghotvfnw?tab=activity">
+    <img src="https://img.shields.io/badge/Activity-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
