@@ -115,32 +115,23 @@ A full-stack rental listing platform built with **Node.js, Express.js, MongoDB a
 I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving, algorithmic thinking, and coding skills.
 
 <p align="center">
-  <a href="YOUR_LEETCODE_PROFILE_URL">
+  <a href="https://leetcode.com/u/rohan_1444/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_GFG_PROFILE_URL">
+  <a href="https://www.geeksforgeeks.org/profile/rohanghotvfnw?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="YOUR_LEETCODE_PROFILE_URL">
+  <a href="https://leetcode.com/u/rohan_1444/">
     <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="48%" />
   </a>
   &nbsp;
-  <a href="YOUR_GFG_PROFILE_URL">
+  <a href="https://www.geeksforgeeks.org/profile/rohanghotvfnw?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Ghotekar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Ghotekar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
