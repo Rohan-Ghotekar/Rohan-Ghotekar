@@ -110,67 +110,29 @@ A full-stack rental listing platform built with **Node.js, Express.js, MongoDB a
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🧠 Problem Solving & Competitive Programming
 
-I regularly practice **Data Structures & Algorithms** to improve problem-solving, algorithmic thinking, and coding efficiency.
+I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving, algorithmic thinking, and coding skills.
 
-### Topics I Practice
+<p align="center">
+  <a href="YOUR_LEETCODE_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_GFG_PROFILE_URL">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
-* Arrays & Strings
-* Hashing
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Graphs
-* Recursion & Backtracking
-* Sorting & Searching
-* Dynamic Programming
-* Greedy Algorithms
-* C++ STL
-
-### Coding Profiles
-
-* 🔵 **LeetCode** — [View Profile](https://leetcode.com/)
-* 🟢 **GeeksforGeeks** — [View Profile](https://www.geeksforgeeks.org/)
-
----
-
-## 🏆 Achievements
-
-* 🥇 **NPTEL Programming in Java — Top 1%**
-* 💯 Scored **100/100** in NPTEL Programming in Java
-* 🧩 Regularly practicing Data Structures & Algorithms
-* 🚀 Building backend and full-stack projects
-
----
-
-## 📚 Currently Learning
-
-```text
-Data Structures & Algorithms
-            ↓
-       Java & Spring Boot
-            ↓
-       Backend Architecture
-            ↓
-         REST APIs
-            ↓
-        System Design
-            ↓
-   Scalable Web Applications
-```
-
-I'm particularly interested in learning how real-world backend systems handle:
-
-* Authentication & Authorization
-* API design
-* Database optimization
-* Caching
-* Scalability
-* Performance
-* Reliability
-* System design
-* Distributed systems
+<p align="center">
+  <a href="YOUR_LEETCODE_PROFILE_URL">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="48%" />
+  </a>
+  &nbsp;
+  <a href="YOUR_GFG_PROFILE_URL">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -197,7 +159,7 @@ I'm particularly interested in learning how real-world backend systems handle:
   <a href="https://github.com/Rohan-Ghotekar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/rohan-ghotekar-1a3595266">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rohanghotekar3225@gmail.com">
