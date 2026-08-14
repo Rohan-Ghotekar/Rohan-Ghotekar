@@ -176,7 +176,7 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
   <a href="https://github.com/Rohan-Ghotekar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/rohan-ghotekar-1a3595266">
+  <a href="https://linkedin.com/in/rohan-ghotekar-1a3595266">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rohanghotekar3225@gmail.com">
