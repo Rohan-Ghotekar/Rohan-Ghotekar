@@ -134,7 +134,7 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 
 <p align="center">
   <a href="https://leetcode.com/u/rohan_1444/">
-    <img src="https://img.shields.io/badge/796%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/800%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/29%20Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/500%20Days%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
